@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  padding: 15px 200px;
+}
+
+/* .navigation-bar {
+} */
+
+.navbar-items {
+  font-family: "Dongle", sans-serif;
+  font-size: 1.75rem;
+  margin: 0 auto;
+  background-color: yellow;
+}
+
+.nav-item {
+  padding: 0% 15px;
+}
+
+.brand-link {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: blue;
+}
+
+.buy-button {
+  display: flex;
+  text-align: center;
+}
+
+.buy-button button {
+  font-family: "Helvetica", sans-serif;
+  color: black;
+  background: transparent;
+}
+
+.buy-button button:hover {
+  background-color: green;
+}
+
+.title {
+  margin-top: 125px;
+  margin-bottom: 80px;
+}
+
+.title-heading {
+  font-size: 3rem;
+  padding: 15px 5px;
+  font-family: "Lobster";
+}
+
+.landkit-target {
+  color: blue;
+}
+
+.title-paragraph {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 1.25rem;
+  font-weight: lighter;
+}
+
+.docs-button {
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-image {
+  width: 100%;
+}
+
+
+/* features */
+
+.features {
+    display: flex;
+    justify-content: space-between;
+}
+
+.feature-icons {
+    padding-bottom: 5%;
+}
